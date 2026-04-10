@@ -6,7 +6,7 @@ export default function App() {
       <p>Calculator App</p>
       <div className="grid grid-cols-4">
         <input
-          className="col-span-4 text-right"
+          className="col-span-4 display"
           type="text"
           disabled
           placeholder="0"
